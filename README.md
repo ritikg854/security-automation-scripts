@@ -36,6 +36,9 @@ Each script in this repository is designed as a small practical example of how a
 
 IOC extraction is a useful supporting task in phishing analysis, suspicious email review, log investigation, and early-stage security triage. This project demonstrates a simple example of how small automation can improve analyst efficiency.
 
+## Future Improvements
+
+Planned future improvements include support for additional IOC patterns, cleaner command-line usage, and more small automation scripts for practical security operations tasks.
 
 ## How to Run
 
