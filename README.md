@@ -32,6 +32,11 @@ The purpose of this repository is to showcase simple technical projects that are
 
 Each script in this repository is designed as a small practical example of how automation can support cybersecurity analysis and security operations tasks.
 
+## Why This Matters
+
+IOC extraction is a useful supporting task in phishing analysis, suspicious email review, log investigation, and early-stage security triage. This project demonstrates a simple example of how small automation can improve analyst efficiency.
+
+
 ## How to Run
 
 Run the IOC extractor script with a sample input file:
