@@ -1,0 +1,11 @@
+User received a suspicious email from alert@micr0soft-support.com asking them to visit
+http://secure-login-check.com/reset and confirm their credentials.
+
+Another link included was:
+https://portal-security.example.org/verify
+
+The message also mentioned contacting admin@security-team.co.uk for support.
+
+Possible source IPs observed during review:
+192.168.1.10
+45.88.120.4
