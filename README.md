@@ -17,11 +17,19 @@ The purpose of this repository is to showcase simple technical projects that are
 ## Current Contents
 
 - `scripts/ioc_extractor.py` - a simple script to extract potential indicators of compromise such as IP addresses, domains, URLs, and email addresses from text
+- `examples/sample_iocs.txt` - sample input file for testing the IOC extractor
 
-## Professional Direction
+## Current Script
 
-This repository reflects my interest in building practical, job-relevant technical work aligned with SOC Analyst, Cyber Security Analyst, Security Operations Analyst, DLP Analyst, Endpoint Security Analyst, and Incident Response Support Analyst roles.
+- `ioc_extractor.py` - extracts potential indicators of compromise such as IP addresses, domains, URLs, and email addresses from a block of text
 
-## Ongoing Development
+## Usage
 
-This repository will continue to grow with additional small automation projects that support practical security operations and defensive security workflows.
+Each script in this repository is designed as a small practical example of how automation can support cybersecurity analysis and security operations tasks.
+
+## How to Run
+
+Run the IOC extractor script with a sample input file:
+
+```bash
+python scripts/ioc_extractor.py examples/sample_iocs.txt
