@@ -23,6 +23,11 @@ The purpose of this repository is to showcase simple technical projects that are
 
 - `ioc_extractor.py` - extracts potential indicators of compromise such as IP addresses, domains, URLs, and email addresses from a block of text
 
+## Repository Structure
+
+- `scripts/` - small security automation scripts
+- `examples/` - sample input files used to test and demonstrate scripts
+
 ## Usage
 
 Each script in this repository is designed as a small practical example of how automation can support cybersecurity analysis and security operations tasks.
