@@ -8,8 +8,12 @@ The scripts in this folder are intended to demonstrate simple, job-relevant tech
 
 ## Current Contents
 
-- `ioc_extractor.py` - extracts potential indicators of compromise such as IP addresses, domains, URLs, and email addresses from a block of text
+- `ioc_extractor.py` - extracts potential indicators of compromise such as IP addresses, domains, URLs, and email addresses from text files
 
-## Professional Relevance
+## How It Fits
 
 These scripts reflect practical automation work that can support security monitoring, phishing review, incident triage, and analyst efficiency.
+
+## Current Status
+
+This folder will continue to expand with additional small tools related to security operations and defensive security workflows.
