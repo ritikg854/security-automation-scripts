@@ -1,3 +1,11 @@
+"""
+Simple IOC extractor for analyst-support workflows.
+
+This script reads a text file and extracts possible IP addresses, email
+addresses, URLs, and domains that may be useful during basic security
+triage and investigation tasks.
+"""
+
 import re
 import sys
 from pathlib import Path
